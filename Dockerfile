@@ -16,5 +16,5 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["node", "queen.js"]
+CMD ["node", "Aryan.js"]
 
